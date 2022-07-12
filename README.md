@@ -1,16 +1,5 @@
-# sample_1
+# Flutter_Basics
+it is a basic app i created to learn basic widget and its working.
+This is the screenshot of the iOS app I build using flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <img align="center" alt="screenshot" src="https://github.com/LukaMel-B/Flutter-Basics/blob/main/images/MacBook%20Pro%2014_%20-%201.png?raw=true" width="800" height="500" />
